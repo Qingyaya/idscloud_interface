@@ -23,7 +23,7 @@ def runcase():
                                                         description=u'接口测试的所有用例的执行')
         runner.run(discover)
         fp.close()
-        # sendMail.send_mail(report)
+        sendMail.send_mail(report)
 
     log.info('==============================TEST END=======================================')
 
