@@ -1,0 +1,32 @@
+caseNo,caseName,parentorg,orgNo,orgname,comment,error
+1,passcase1,testuiregister,000001,总司,,
+2,passcase2,testuiregister,000002,分部,,
+3,passcase3,testuiregister/总司,100001,人事,人事,
+4,passcase4,testuiregister/总司,100002,销售,销售,
+5,passcase5,testuiregister/总司,100003,技术,技术,
+6,passcase6,testuiregister/总司/技术,200001,开发,总司开发,
+7,passcase7,testuiregister/总司/技术,200002,测试,总司测试,
+8,passcase8,testuiregister/分部,100011,互联网,,
+9,passcase9,testuiregister/分部,100012,运营,运营,
+10,passcase10,testuiregister/分部,100013,技术,技术,
+11,passcase11,testuiregister/分部/技术,200011,开发,分部开发,
+12,passcase12,testuiregister/分部/技术,200012,运营,运营,
+13,passcase13,testuiregister,000003,人事,,
+14,passcase14,testuiregister,000004,test人事,测试备注字段长度可以支持多少个呢。。。不知道,
+15,passcase15,testuiregister/test人事,100041,测试公司名称的字段长度可以支持多少个呢不知道,测试备注字段长度可以支持多少个呢。。。不知道,
+16,passcase16,testuiregister/test人事,100042,Eng Organation case,,
+17,passcase17,testuiregister/test人事,100043,case english,,
+18,passcase18,testuiregister/test人事,100044,CASE ENGLISH TRY,,
+19,passcase19,testuiregister/test人事,100046,CASE @ENGLISH,,
+20,passcase20,testuiregister/test人事,TE00001,No导入dl,,
+21,passcase21,testuiregister/test人事,ys&00001,No导入s,,
+22,passcase22,testuiregister/test人事,lidkesongdsf0000001,No导入a,,
+23,failcase23,testuiregister,000005,分部,,同一上级部门下，下级部门不能重名!
+24,failcase24,testuiregister,,,,请输入部门编码/请输入部门名称
+25,failcase25,testuiregister/test人事,100005,CASE ENGLISH,,同一上级部门下，下级部门不能重名!
+26,failcase26,testuiregister/test人事,100001,No导入,,编码已存在!
+27,failcase27,testuiregister,,kongkong,,请输入部门编码
+28,failcase28,testuiregister,kongkong,,,请输入部门名称
+29,failcase29,testuiregister, , ,,请输入部门编码/请输入部门名称
+30,failcase30,testuiregister,  ,kongkong,,请输入部门编码
+31,failcase31,testuiregister,kongkong,  ,,请输入部门名称

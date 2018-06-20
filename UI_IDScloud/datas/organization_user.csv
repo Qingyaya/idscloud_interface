@@ -1,0 +1,3 @@
+caseNo,caseName,username,usermail,userphone,userNo,orgName,orgNo,orgType,parentOrg,appname
+1,创建机构和用户并分配应用,userapp03,userapp03@163.com,15201233213,TEST003,orgtest01,test01,test,testuiregister,按次有账号_testui
+2,创建机构和用户并分配应用,userapp04,userapp04@163.com,15201233214,TEST004,orgtest02,test02,test,orgtest01,按租期无账号_testui
