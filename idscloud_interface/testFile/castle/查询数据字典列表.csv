@@ -1,0 +1,4 @@
+caseID,caseName,assert,msg,typeCode
+1,查询数据字典列表,code,0,A100
+2,查询数据字典列表,code,0,A300
+3,查询数据字典列表,code,0,A6003452345434235346345

@@ -1,0 +1,2 @@
+接口标识,接口名称,接口地址,接口请求方式,接口参数
+addAppUsingPOST,产品注册,https://service.bccastle.com/dev/devApp/addApp,post,"['appSalesModel', 'appType', 'appkey', 'appsecret', 'authMethodIds', 'avatar', 'chainCodes', 'commentContent', 'companyId', 'createTime', 'createUser', 'description', 'enabled', 'entityDescriptorContent', 'entityId', 'feature', 'guide', 'idpEntityId', 'isAuthenticationIntegrated', 'mode', 'operationSystem', 'securityLevel', 'spCode', 'status', 'storeType', 'type', 'typeName', 'ud', 'updatetime', 'url', 'userGroup', 'versions']"

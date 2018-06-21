@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,describe,appSalesModel,authMethodIds,avatar,companyId,description,feature,isAuthenticationIntegrated,mode,operationSystem,spCode,storeType,url,userGroup,versions,documentList,standardList
+1,ÐÞ¸ÄÓ¦ÓÃ,code,0,,1,0,s,53790c0cdf2749debc49cac6e9c4cae4,asc,<p>asd</p>,1,4,1,apitest01,10000,http://www.sd/dd,A301,v1,"[{'describe':'','path':'','filename':''}]","[{'function':'v1','minNumber':'','maxNumber':'','jsonList':[{'period':'','price':'2500','discountedPrice':''}]}]"

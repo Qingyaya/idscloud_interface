@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,name,companytype,certificateno,registeredcode,certificatepic,bankCode,bankCompanyName,bankCompanyNum
+1,添加服务商企业,code,0,apitestopSS1,201,,12321,srt,Sdbank,apitestopSS1,31232222222222

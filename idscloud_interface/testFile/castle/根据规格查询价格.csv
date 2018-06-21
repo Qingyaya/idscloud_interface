@@ -1,0 +1,4 @@
+caseID,caseName,assert,msg,fid
+1,根据规格查询价格,code,0,23094b3081584f8c9601da08816d0f08
+2,根据规格查询价格,code,0,
+3,根据规格查询价格,code,0,测试

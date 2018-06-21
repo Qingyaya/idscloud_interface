@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/readme/interface_test_Project.xmind" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/castle.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/云超市用户注册.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/云超市用户登入.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/修改订单支付状态.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/入驻状态.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/展示基础分类.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/服务商入驻.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/查看企业信息.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/查询应用详情.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/查询数据字典列表.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/查询用户所属企业ID.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/查询省列表.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/根据省查询市列表.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/根据规格查询价格.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/热门推荐.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/生成订单接口.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/用户发送短息.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/订单查询接口.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/castle/验证用户名与手机号是否已经存在.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/eps/eps.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/eps/应用详情.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/eps/查看资源权限信息.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/eps/查询用户.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/eps3.0.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/isv/isv.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/isv4.0.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/market.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/op/op.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/op/验证登录名是否重复.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testFile/op9.0.txt" charset="GBK" />
+  </component>
+</project>

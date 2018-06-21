@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f226ccaf-add7-45c2-9d8e-2f1788f04414" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_resetPasswordUsingPOST_py.coverage" NAME="py.test in test_resetPasswordUsingPOST.py Coverage Results" MODIFIED="1524131825854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_for_test_deleteUserAppUsingGET_test_deleteUserAppUsingGET.coverage" NAME="py.test for test_deleteUserAppUsingGET.test_deleteUserAppUsingGET Coverage Results" MODIFIED="1523954062537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/user" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_showSorgUsingPOST_py.coverage" NAME="py.test in test_showSorgUsingPOST.py Coverage Results" MODIFIED="1524132002934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_editUserUsingPOST_py.coverage" NAME="py.test in test_editUserUsingPOST.py Coverage Results" MODIFIED="1523954433672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/user" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_selectBuyDetailListUsingPOST_py.coverage" NAME="py.test in test_selectBuyDetailListUsingPOST.py Coverage Results" MODIFIED="1524128134368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_for_test_checkProUsingPOST_test_checkProUsingPOST_test_checkProUsingPOST.coverage" NAME="py.test for test_checkProUsingPOST.test_checkProUsingPOST.test_checkProUsingPOST Coverage Results" MODIFIED="1523958895973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/castle" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_typeValueDeleteUsingPOST_py.coverage" NAME="py.test in test_typeValueDeleteUsingPOST.py Coverage Results" MODIFIED="1524465202845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$sendMail.coverage" NAME="sendMail Coverage Results" MODIFIED="1526524527918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_confirmPaymentUsingGET_py.coverage" NAME="py.test in test_confirmPaymentUsingGET.py Coverage Results" MODIFIED="1523947507954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_deleteSysPowerUsingPOST_py.coverage" NAME="py.test in test_deleteSysPowerUsingPOST.py Coverage Results" MODIFIED="1524470429029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_001_addAppsApplyUsingPOST_py.coverage" NAME="py.test in test_001_addAppsApplyUsingPOST.py Coverage Results" MODIFIED="1523962765689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/user" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_registAgainUsingPOST_py.coverage" NAME="py.test in test_registAgainUsingPOST.py Coverage Results" MODIFIED="1524277030376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_querySysUserUsingPOST_py.coverage" NAME="py.test in test_querySysUserUsingPOST.py Coverage Results" MODIFIED="1524467822968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$myHttp.coverage" NAME="myHttp Coverage Results" MODIFIED="1523433734251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_selectSumListUsingPOST_py.coverage" NAME="py.test in test_selectSumListUsingPOST.py Coverage Results" MODIFIED="1524128150034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_deleteUsingGET_py.coverage" NAME="py.test in test_deleteUsingGET.py Coverage Results" MODIFIED="1524284239195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1523260792668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_findProductsUsingPOST_py.coverage" NAME="py.test in test_findProductsUsingPOST.py Coverage Results" MODIFIED="1524188556540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/castle" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addCompanyAppsByEntityIDUsingPOST_py.coverage" NAME="py.test in test_addCompanyAppsByEntityIDUsingPOST.py Coverage Results" MODIFIED="1524130589577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_findBillListUsingPOST_py.coverage" NAME="py.test in test_findBillListUsingPOST.py Coverage Results" MODIFIED="1524452019582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addUsingPOST_3_py.coverage" NAME="py.test in test_addUsingPOST_3.py Coverage Results" MODIFIED="1524452363581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_insertNewSorgUsingPOST_py.coverage" NAME="py.test in test_insertNewSorgUsingPOST.py Coverage Results" MODIFIED="1524540258951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_for_test_userMessageUsingPOST_test_userMessageUsingPOST.coverage" NAME="py.test for test_userMessageUsingPOST.test_userMessageUsingPOST Coverage Results" MODIFIED="1521775276428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_querySupportPeopleUsingPOST_py.coverage" NAME="py.test in test_querySupportPeopleUsingPOST.py Coverage Results" MODIFIED="1524294509749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_001_loginUsingPOST_py.coverage" NAME="py.test in test_001_loginUsingPOST.py Coverage Results" MODIFIED="1524535291970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_infoUsingGET_py.coverage" NAME="py.test in test_infoUsingGET.py Coverage Results" MODIFIED="1523955767274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/user" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addUsingPOST_2_py.coverage" NAME="py.test in test_addUsingPOST_2.py Coverage Results" MODIFIED="1524284671805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_modifyAppUsingPOST_py.coverage" NAME="py.test in test_modifyAppUsingPOST.py Coverage Results" MODIFIED="1524213834382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addSysUserUsingPOST_py.coverage" NAME="py.test in test_addSysUserUsingPOST.py Coverage Results" MODIFIED="1524472075104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addUsingPOST_1_py.coverage" NAME="py.test in test_addUsingPOST_1.py Coverage Results" MODIFIED="1524477144289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_registcompanyUsingPOST_py.coverage" NAME="py.test in test_registcompanyUsingPOST.py Coverage Results" MODIFIED="1524647379691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_sendSmsPasswordUsingPOST_py.coverage" NAME="py.test in test_sendSmsPasswordUsingPOST.py Coverage Results" MODIFIED="1524131003749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_echoSorgUsingGET_py.coverage" NAME="py.test in test_echoSorgUsingGET.py Coverage Results" MODIFIED="1524120891428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_queryListUsingGET_py.coverage" NAME="py.test in test_queryListUsingGET.py Coverage Results" MODIFIED="1524130048938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$run.coverage" NAME="run Coverage Results" MODIFIED="1524626962763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_findListByPowerUsingGET_py.coverage" NAME="py.test in test_findListByPowerUsingGET.py Coverage Results" MODIFIED="1524204438483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$caseScript.coverage" NAME="caseScript Coverage Results" MODIFIED="1523417893035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_infoUsingPOST_py.coverage" NAME="py.test in test_infoUsingPOST.py Coverage Results" MODIFIED="1523955198414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/user" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_updatePowerUsingPOST_py.coverage" NAME="py.test in test_updatePowerUsingPOST.py Coverage Results" MODIFIED="1524468948329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$init.coverage" NAME="init Coverage Results" MODIFIED="1524205405531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_searchUsingPOST_py.coverage" NAME="py.test in test_searchUsingPOST.py Coverage Results" MODIFIED="1524214398382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$Log.coverage" NAME="Log Coverage Results" MODIFIED="1521774019929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_getSysPowerUsingPOST_py.coverage" NAME="py.test in test_getSysPowerUsingPOST.py Coverage Results" MODIFIED="1523860879769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_logoutUsingGET_py.coverage" NAME="py.test in test_logoutUsingGET.py Coverage Results" MODIFIED="1524469873972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_deleteCompanyAppsByEntityIDUsingPOST_py.coverage" NAME="py.test in test_deleteCompanyAppsByEntityIDUsingPOST.py Coverage Results" MODIFIED="1524130267854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_updataUserUsingPOST_py.coverage" NAME="py.test in test_updataUserUsingPOST.py Coverage Results" MODIFIED="1524551645659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_statusAppsFalseUsingPOST_py.coverage" NAME="py.test in test_statusAppsFalseUsingPOST.py Coverage Results" MODIFIED="1524109443533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_cancelauthorizationPowerUsingPOST_py.coverage" NAME="py.test in test_cancelauthorizationPowerUsingPOST.py Coverage Results" MODIFIED="1524132985776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addRoleUsingPOST_py.coverage" NAME="py.test in test_addRoleUsingPOST.py Coverage Results" MODIFIED="1524282282297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$get_csv.coverage" NAME="get_csv Coverage Results" MODIFIED="1523609667191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_tojoinUpAppUsingPOST_py.coverage" NAME="py.test in test_tojoinUpAppUsingPOST.py Coverage Results" MODIFIED="1524296204596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_queryUpdateOrderUsingPOST_py.coverage" NAME="py.test in test_queryUpdateOrderUsingPOST.py Coverage Results" MODIFIED="1524294677333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_cancelauthorizationRoleUsingPOST_py.coverage" NAME="py.test in test_cancelauthorizationRoleUsingPOST.py Coverage Results" MODIFIED="1524126396710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_sendSmsMailUsingPOST_py.coverage" NAME="py.test in test_sendSmsMailUsingPOST.py Coverage Results" MODIFIED="1524131123925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_queryListAllUsingGET_1_py.coverage" NAME="py.test in test_queryListAllUsingGET_1.py Coverage Results" MODIFIED="1524127469461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_getUnSelAppsListUsingGET_py.coverage" NAME="py.test in test_getUnSelAppsListUsingGET.py Coverage Results" MODIFIED="1523954657201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/user" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_indexUsingGET_py.coverage" NAME="py.test in test_indexUsingGET.py Coverage Results" MODIFIED="1524194377487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/castle" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_saveCommentUsingPOST_py.coverage" NAME="py.test in test_saveCommentUsingPOST.py Coverage Results" MODIFIED="1524295334155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_cancellationOfOrderUsingPOST_py.coverage" NAME="py.test in test_cancellationOfOrderUsingPOST.py Coverage Results" MODIFIED="1524118811395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_deleteNodeSorgUsingGET_py.coverage" NAME="py.test in test_deleteNodeSorgUsingGET.py Coverage Results" MODIFIED="1524540235649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_deleteUsingPOST_py.coverage" NAME="py.test in test_deleteUsingPOST.py Coverage Results" MODIFIED="1524471030093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_deleteMoreUsingPOST_py.coverage" NAME="py.test in test_deleteMoreUsingPOST.py Coverage Results" MODIFIED="1524540775329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_registerUsingPUT_py.coverage" NAME="py.test in test_registerUsingPUT.py Coverage Results" MODIFIED="1524295082186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_companyInfoUsingGET_py.coverage" NAME="py.test in test_companyInfoUsingGET.py Coverage Results" MODIFIED="1524539319429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addPowerUsingPOST_py.coverage" NAME="py.test in test_addPowerUsingPOST.py Coverage Results" MODIFIED="1524449479307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$ReadConfig.coverage" NAME="ReadConfig Coverage Results" MODIFIED="1521773436661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_013_logoutUsingGET_py.coverage" NAME="py.test in test_013_logoutUsingGET.py Coverage Results" MODIFIED="1524021616644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/user" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_userMessageUsingPOST_py.coverage" NAME="py.test in test_userMessageUsingPOST.py Coverage Results" MODIFIED="1524648126461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_for_test_registerUsingPOST_test_registerUsingPOST.coverage" NAME="py.test for test_registerUsingPOST.test_registerUsingPOST Coverage Results" MODIFIED="1524556897369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_findByIdUsingPOST_2_py.coverage" NAME="py.test in test_findByIdUsingPOST_2.py Coverage Results" MODIFIED="1524465928628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_saveProductUsingPOST_py.coverage" NAME="py.test in test_saveProductUsingPOST.py Coverage Results" MODIFIED="1524208919941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_findByIdUsingPOST_1_py.coverage" NAME="py.test in test_findByIdUsingPOST_1.py Coverage Results" MODIFIED="1524465854470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$Case.coverage" NAME="Case Coverage Results" MODIFIED="1524211136248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_updateRoleUsingPOST_py.coverage" NAME="py.test in test_updateRoleUsingPOST.py Coverage Results" MODIFIED="1524120188002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_userAppsListUsingGET_py.coverage" NAME="py.test in test_userAppsListUsingGET.py Coverage Results" MODIFIED="1524129651855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_queryMailUsingPOST_py.coverage" NAME="py.test in test_queryMailUsingPOST.py Coverage Results" MODIFIED="1524131338184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_registerUsingPOST_py.coverage" NAME="py.test in test_registerUsingPOST.py Coverage Results" MODIFIED="1524555705158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_for_test_getSysPowerUsingPOST_test_getSysPowerUsingPOST.coverage" NAME="py.test for test_getSysPowerUsingPOST.test_getSysPowerUsingPOST Coverage Results" MODIFIED="1523261462749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_deleteSysUserUsingPOST_py.coverage" NAME="py.test in test_deleteSysUserUsingPOST.py Coverage Results" MODIFIED="1524472084913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_applicationManagementPageListUsingPOST_py.coverage" NAME="py.test in test_applicationManagementPageListUsingPOST.py Coverage Results" MODIFIED="1524286123580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_findByTypeCodeUsingPOST_py.coverage" NAME="py.test in test_findByTypeCodeUsingPOST.py Coverage Results" MODIFIED="1524466015246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_findAuthChainUsingPOST_py.coverage" NAME="py.test in test_findAuthChainUsingPOST.py Coverage Results" MODIFIED="1524451552408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_alreadyuserroleListUsingGET_py.coverage" NAME="py.test in test_alreadyuserroleListUsingGET.py Coverage Results" MODIFIED="1524286007537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_uploadUserExcelUsingGET_py.coverage" NAME="py.test in test_uploadUserExcelUsingGET.py Coverage Results" MODIFIED="1524127732217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_registerUsingPOST_py__1_.coverage" NAME="py.test in test_registerUsingPOST.py (1) Coverage Results" MODIFIED="1524556943393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/castle" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_showNodeSorgUsingPOST_py.coverage" NAME="py.test in test_showNodeSorgUsingPOST.py Coverage Results" MODIFIED="1524131994515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_findAppPriceByFidUsingPOST_py.coverage" NAME="py.test in test_findAppPriceByFidUsingPOST.py Coverage Results" MODIFIED="1524467431603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_checkProUsingPOST_py.coverage" NAME="py.test in test_checkProUsingPOST.py Coverage Results" MODIFIED="1523958909065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/castle" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_alreadyrolepowerListUsingGET_py.coverage" NAME="py.test in test_alreadyrolepowerListUsingGET.py Coverage Results" MODIFIED="1524285991147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in__pytest_cache.coverage" NAME="py.test in .pytest_cache Coverage Results" MODIFIED="1523866514003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op/.pytest_cache" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_dealManageUsingPOST_py.coverage" NAME="py.test in test_dealManageUsingPOST.py Coverage Results" MODIFIED="1524212759103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_typeAddUsingPOST_py.coverage" NAME="py.test in test_typeAddUsingPOST.py Coverage Results" MODIFIED="1524466801964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_echoUserUsingPOST_py.coverage" NAME="py.test in test_echoUserUsingPOST.py Coverage Results" MODIFIED="1524540420648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_selectMonthListUsingPOST_py.coverage" NAME="py.test in test_selectMonthListUsingPOST.py Coverage Results" MODIFIED="1524127884468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_getLoginUserUsingPOST_py.coverage" NAME="py.test in test_getLoginUserUsingPOST.py Coverage Results" MODIFIED="1524279874361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_updateUsingPOST_3_py.coverage" NAME="py.test in test_updateUsingPOST_3.py Coverage Results" MODIFIED="1524469329356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_createOrderUsingPOST_py.coverage" NAME="py.test in test_createOrderUsingPOST.py Coverage Results" MODIFIED="1524643044117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_typeUpdateUsingPOST_py.coverage" NAME="py.test in test_typeUpdateUsingPOST.py Coverage Results" MODIFIED="1524296732374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_ajaxCompanyListUsingPOST_py.coverage" NAME="py.test in test_ajaxCompanyListUsingPOST.py Coverage Results" MODIFIED="1524476622979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_deleteUserAppUsingGET_py.coverage" NAME="py.test in test_deleteUserAppUsingGET.py Coverage Results" MODIFIED="1523954137298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/user" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_loginUsingPOST_py.coverage" NAME="py.test in test_loginUsingPOST.py Coverage Results" MODIFIED="1526550396803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/castle" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_deleteUsingPOST_1_py.coverage" NAME="py.test in test_deleteUsingPOST_1.py Coverage Results" MODIFIED="1524478870779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$run_fail_case.coverage" NAME="run_fail_case Coverage Results" MODIFIED="1524557161244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_authorizationPowerUsingPOST_py.coverage" NAME="py.test in test_authorizationPowerUsingPOST.py Coverage Results" MODIFIED="1524132876812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_updateCompanyUsingPOST_py.coverage" NAME="py.test in test_updateCompanyUsingPOST.py Coverage Results" MODIFIED="1524128942924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_queryOrderListUsingPOST_py.coverage" NAME="py.test in test_queryOrderListUsingPOST.py Coverage Results" MODIFIED="1524214285855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$get_optoken.coverage" NAME="get_optoken Coverage Results" MODIFIED="1529488347284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addAppUsingPOST_py.coverage" NAME="py.test in test_addAppUsingPOST.py Coverage Results" MODIFIED="1524210056958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_updateCompanyStatusUsingPOST_1_py.coverage" NAME="py.test in test_updateCompanyStatusUsingPOST_1.py Coverage Results" MODIFIED="1524468068075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_updateServiceCompanyUsingPOST_py.coverage" NAME="py.test in test_updateServiceCompanyUsingPOST.py Coverage Results" MODIFIED="1524653337442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_for_test_getSysPowerUsingPOST_test_getSysPowerUsingPOST_test_getSysPowerUsingPOST.coverage" NAME="py.test for test_getSysPowerUsingPOST.test_getSysPowerUsingPOST.test_getSysPowerUsingPOST Coverage Results" MODIFIED="1523607943932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_for_test_checkProUsingPOST_test_checkProUsingPOST.coverage" NAME="py.test for test_checkProUsingPOST.test_checkProUsingPOST Coverage Results" MODIFIED="1523859270614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/castle" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addUsingPOST_py.coverage" NAME="py.test in test_addUsingPOST.py Coverage Results" MODIFIED="1524452104128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$get_optoken__1_.coverage" NAME="get_optoken (1) Coverage Results" MODIFIED="1524637196618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_queryListAllUsingGET_py.coverage" NAME="py.test in test_queryListAllUsingGET.py Coverage Results" MODIFIED="1524126187222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_showMarketAppUsingGET_py.coverage" NAME="py.test in test_showMarketAppUsingGET.py Coverage Results" MODIFIED="1524193439783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/castle" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_updateOrderByOpenUsingPOST_py.coverage" NAME="py.test in test_updateOrderByOpenUsingPOST.py Coverage Results" MODIFIED="1524277393939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addProductUsingPOST_py.coverage" NAME="py.test in test_addProductUsingPOST.py Coverage Results" MODIFIED="1524209841671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_typeDeleteUsingPOST_py.coverage" NAME="py.test in test_typeDeleteUsingPOST.py Coverage Results" MODIFIED="1524466975725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_sendSmsUsingPOST_py.coverage" NAME="py.test in test_sendSmsUsingPOST.py Coverage Results" MODIFIED="1524131064488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_queryMiddleCompanyUsingPOST_py.coverage" NAME="py.test in test_queryMiddleCompanyUsingPOST.py Coverage Results" MODIFIED="1524451807650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_typeValueAddUsingPOST_py.coverage" NAME="py.test in test_typeValueAddUsingPOST.py Coverage Results" MODIFIED="1524455443397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_addCommentUsingPOST_py.coverage" NAME="py.test in test_addCommentUsingPOST.py Coverage Results" MODIFIED="1524212633679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/isv" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_querySameSubmitUsingPOST_py.coverage" NAME="py.test in test_querySameSubmitUsingPOST.py Coverage Results" MODIFIED="1524280502558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_statusAppsTrueUsingPOST_py.coverage" NAME="py.test in test_statusAppsTrueUsingPOST.py Coverage Results" MODIFIED="1524551335052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_for_test_001_addAppsApplyUsingPOST_test_addAppsApplyUsingPOST_test_addAppsApplyUsingPOST.coverage" NAME="py.test for test_001_addAppsApplyUsingPOST.test_addAppsApplyUsingPOST.test_addAppsApplyUsingPOST Coverage Results" MODIFIED="1523962717286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/user" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_002_editUserUsingPOST_py.coverage" NAME="py.test in test_002_editUserUsingPOST.py Coverage Results" MODIFIED="1524479960928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/user" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_insertNewUserUsingPOST_py.coverage" NAME="py.test in test_insertNewUserUsingPOST.py Coverage Results" MODIFIED="1524540783966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1528450954388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_findByEntityIdUsingPOST_py.coverage" NAME="py.test in test_findByEntityIdUsingPOST.py Coverage Results" MODIFIED="1524551970743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/op" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in__pytest_cache__1_.coverage" NAME="py.test in .pytest_cache (1) Coverage Results" MODIFIED="1523866524253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps/.pytest_cache" />
+    <SUITE FILE_PATH="coverage/idscloud_interface$py_test_in_test_uploadSorgExcelUsingGET_py.coverage" NAME="py.test in test_uploadSorgExcelUsingGET.py Coverage Results" MODIFIED="1524127694189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/eps" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="HTMLTestRunner_params.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/HTMLTestRunner_params.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="850" column="21" lean-forward="false" selection-start-line="850" selection-start-column="21" selection-end-line="850" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_optoken.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_optoken.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadConfig.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/ReadConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="77" lean-forward="true" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>passrate</find>
+      <find>tmpl</find>
+      <find>REPORT_TEST_NO_OUTPUT_TMPL</find>
+      <find>bodyq</find>
+      <find>token</find>
+      <find>paramOrder</find>
+      <find>&quot;app&quot;</find>
+      <find>&quot;fid&quot;</find>
+      <find>validUserNameUsingPATCH</find>
+      <find>findAppPriceByFidUsingPOST</find>
+      <find>{&quot;$ref&quot;:&quot;#/definitions/String&quot;}</find>
+      <find>fid</find>
+      <find>&quot;#/definitions/String&quot;</find>
+      <find>updateCompanyUsingPOST</find>
+      <find>excelAddSorgUsingPOST</find>
+      <find>queryListAllUsingGET</find>
+      <find>companyId</find>
+      <find>getLoginUserUsingPOST</find>
+      <find>addPowerUsingPOST</find>
+      <find>REPORT_TEST_WITH_OUTPUT_TMPL</find>
+      <find>failure_count</find>
+      <find>REPORT_TMPL</find>
+      <find>REPORT_CLASS_TMPL</find>
+      <find>parameters</find>
+      <find>HEADING_ATTRIBUTE_TMPL</find>
+      <find>report_attrs</find>
+      <find>generateReport</find>
+      <find>getReportAttributes</find>
+      <find>_generate_report</find>
+      <find>sortResult</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testFile/user/删除某个应用.csv" />
+        <option value="$PROJECT_DIR$/testCase/user/test_003_changePwdUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_004_getUserListUsingGET.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_005_getUnSelAppsListUsingGET.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_006_searchUserAppsUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_007_handleErrorUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_008_addAppsApplyUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_009_deleteUserAppUsingGET.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_010_indexUsingGET.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_011_infoUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_012_messageUsingGET.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_001_infoUsingGET.py" />
+        <option value="$PROJECT_DIR$/testFile/test_013_logoutUsingGET.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_013_logoutUsingGET.py" />
+        <option value="$PROJECT_DIR$/testCase/castle/test_getLoginUserUsingGET.py" />
+        <option value="$PROJECT_DIR$/testCase/user/test_002_editUserUsingPOST.py" />
+        <option value="$PROJECT_DIR$/init.py" />
+        <option value="$PROJECT_DIR$/testCase/isv/test_infoUsingGET.py" />
+        <option value="$PROJECT_DIR$/testCase/eps/test_indexUsingGET.py" />
+        <option value="$PROJECT_DIR$/common/Case.py" />
+        <option value="$PROJECT_DIR$/testCase/eps/test_deleteSysPowerUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/eps/test_getLoginUserUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_registerUsingPUT.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_typeDeleteUsingPOST.py" />
+        <option value="$PROJECT_DIR$/common/get_optoken.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_logoutUsingGET.py" />
+        <option value="$PROJECT_DIR$/common/get_csv.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_deleteSysPowerUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_deleteSysUserUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_deleteUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_ajaxCompanyListUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_deleteUsingPOST_1.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_addPowerUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_001_loginUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/op/test_typeValueDeleteUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/eps/test_deleteNodeSorgUsingGET.py" />
+        <option value="$PROJECT_DIR$/testCase/castle/test_registerUsingPOST.py" />
+        <option value="$PROJECT_DIR$/common/myHttp.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/testCase/eps/test_deleteMoreUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/eps/test_userMessageUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/eps/test_updataSorgUsingPOST.py" />
+        <option value="$PROJECT_DIR$/testCase/isv/test_updateServiceCompanyUsingPOST.py" />
+        <option value="$PROJECT_DIR$/report/20180510/20180510113357.html" />
+        <option value="$PROJECT_DIR$/report/20180510/20180510163720.html" />
+        <option value="$PROJECT_DIR$/common/sendMail.py" />
+        <option value="$PROJECT_DIR$/run_all_case.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/run_fail_case.py" />
+        <option value="$PROJECT_DIR$/common/HTMLTestRunner_params.py" />
+        <option value="$PROJECT_DIR$/get_optoken.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1871" />
+    <option name="y" value="24" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="idscloud_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idscloud_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idscloud_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idscloud_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idscloud_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idscloud_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idscloud_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idscloud_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idscloud_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idscloud_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/venv/idscloud_interface" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDS\idscloud_interface" />
+      <recent name="E:\IDS\idscloud_interface\testCase\user" />
+      <recent name="E:\IDS\idscloud_interface\testFile" />
+      <recent name="E:\IDS\idscloud_interface\testCase\eps" />
+      <recent name="E:\IDS\idscloud_interface\testFile\eps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDS\idscloud_interface" />
+      <recent name="E:\IDS\idscloud_interface\testCase\op" />
+      <recent name="E:\IDS\idscloud_interface\testCase\user" />
+      <recent name="E:\IDS\idscloud_interface\testFile" />
+      <recent name="E:\IDS\idscloud_interface\testFile\eps" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.get_optoken">
+    <configuration name="get_optoken" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="idscloud_interface" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_optoken.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="idscloud_interface" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sendMail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="idscloud_interface" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/sendMail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="py.test in test_loginUsingPOST.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/castle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="idscloud_interface" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCase/castle/test_loginUsingPOST.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in test_updateServiceCompanyUsingPOST.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/isv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="idscloud_interface" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCase/isv/test_updateServiceCompanyUsingPOST.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.get_optoken" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run_all_case" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_updateServiceCompanyUsingPOST.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sendMail" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_loginUsingPOST.py" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.get_optoken" />
+        <item index="1" class="java.lang.String" itemvalue="Python.run_all_case" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_loginUsingPOST.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sendMail" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_updateServiceCompanyUsingPOST.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f226ccaf-add7-45c2-9d8e-2f1788f04414" name="Default" comment="" />
+      <created>1521700676057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521700676057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_test_createOrderUsingPOST_py - 2018.04.25 at 15h 57m 27s.xml">
+      <configuration name="py.test in test_createOrderUsingPOST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_loginUsingPOST_py - 2018.05.17 at 17h 46m 40s.xml">
+      <configuration name="py.test in test_loginUsingPOST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_registcompanyUsingPOST_py - 2018.04.25 at 17h 04m 40s.xml">
+      <configuration name="py.test in test_registcompanyUsingPOST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_registcompanyUsingPOST_py - 2018.04.25 at 17h 09m 41s.xml">
+      <configuration name="py.test in test_registcompanyUsingPOST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_updateServiceCompanyUsingPOST_py - 2018.04.25 at 17h 32m 25s.xml">
+      <configuration name="py.test in test_updateServiceCompanyUsingPOST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_updateServiceCompanyUsingPOST_py - 2018.04.25 at 18h 43m 38s.xml">
+      <configuration name="py.test in test_updateServiceCompanyUsingPOST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_updateServiceCompanyUsingPOST_py - 2018.04.25 at 18h 49m 00s.xml">
+      <configuration name="py.test in test_updateServiceCompanyUsingPOST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_userMessageUsingPOST_py - 2018.04.25 at 17h 21m 28s.xml">
+      <configuration name="py.test in test_userMessageUsingPOST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_userMessageUsingPOST_py - 2018.04.25 at 17h 21m 31s.xml">
+      <configuration name="py.test in test_userMessageUsingPOST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_userMessageUsingPOST_py - 2018.04.25 at 17h 22m 09s.xml">
+      <configuration name="py.test in test_userMessageUsingPOST.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1871" y="24" width="1938" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3889515" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26609442" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4342723" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20892018" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3955399" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35853133" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20892018" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4342723" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/common/HTMLTestRunner.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/idscloud_interface_TEST/init_bak.py</url>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/init.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/init.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCase/eps/test_getSysPowerUsingPOST.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCase/user1/test_indexUsingGET.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCase/castle/test_checkProUsingPOST.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCase/castle/test_getLoginUserUsingGET.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/common/Case.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCase/op/test_typeValueDeleteUsingPOST.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCase/op/test_deleteSysUserUsingPOST.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCase/op/test_deleteUsingPOST_1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCase/op/test_001_loginUsingPOST.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_fail_case.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="47" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="self.params['type_value_ids']" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>caselist</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>params</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.params['type_value_ids']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.param['type_value_ids']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>next(reader)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>package</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>paclage</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.basename(os.path.split(__file__)[0])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.split(__file__)[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.split(__file__)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/report/20180425/20180425105931.html" />
+    <entry file="file://$PROJECT_DIR$/common/myHttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py" />
+    <entry file="file://$PROJECT_DIR$/接口测试执行.au3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/op/test_createOrderUsingPOST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="30" column="56" lean-forward="false" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/20180425/20180425165152.html" />
+    <entry file="file://$PROJECT_DIR$/testCase/eps/test_getLoginUserUsingPOST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/eps/test_registcompanyUsingPOST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="37" column="19" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/eps/test_insertNewUserUsingPOST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/20180425/20180425173433.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180425/20180425173539.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180425/20180425174108.html" />
+    <entry file="file://$PROJECT_DIR$/testCase/eps/test_updataSorgUsingPOST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/eps/test_deleteMoreUsingPOST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/isv/test_updateServiceCompanyUsingPOST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/eps/test_deleteNodeSorgUsingGET.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/eps/test_userMessageUsingPOST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/get_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/checkResult.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/castle/test_checkProUsingPOST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/Case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510110256.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510112608.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510113052.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510113357.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510114511.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510114954.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510141020.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510140406.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510143809.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510150808.html" />
+    <entry file="file://$PROJECT_DIR$/common/HTMLTestRunner_params_bak.py" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510152436.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510152731.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510160508.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510162303.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510162908.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510155855.html" />
+    <entry file="file://$PROJECT_DIR$/testCase/castle/test_loginUsingPOST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/20180510/20180510163720.html" />
+    <entry file="file://$PROJECT_DIR$/testCase/castle/test_getLoginUserUsingGET.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/20180521/20180521131509.html" />
+    <entry file="file://$PROJECT_DIR$/report/20180521/20180521155857.html" />
+    <entry file="file://$PROJECT_DIR$/common/sendMail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_fail_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/20180521/20180521160209.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/HTMLTestRunner_params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="850" column="21" lean-forward="false" selection-start-line="850" selection-start-column="21" selection-end-line="850" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_optoken.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/ReadConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="77" lean-forward="true" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

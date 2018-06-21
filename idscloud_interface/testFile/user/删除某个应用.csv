@@ -1,0 +1,3 @@
+caseID,caseName,assertKey,assertValue,appId,uid
+1,删除某个应用1,code,104,44768937eb4544ddba1027157bbbcc44,ea94877a-efe6-4d60-b3d4-d05397313ea8
+2,删除某个应用2,code,0,3c061fee3a0a4f63aace6e1e71397c7a,43c66c79-24c7-464a-aa68-ce0c4d37e685

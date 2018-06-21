@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,companyid,name,website,logo,registeredfunds,employeesnum,bankCompanyNum,certibankCodeficatepic,bankCompanyName,address,companyPhone,companyMail,certificateno,registeredcode,description
+1,修改服务商本企业信息申请提交,code,0,aecab10f41434171b1ef802f4735c9ed,apitest服务商,http://www.ccs.cl,dfd,10000000,2,111111111111,银行,dcy,sdkfjslkdf,1011111,dong@133.cn,,123456,

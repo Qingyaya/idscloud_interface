@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,companyid,sorgCode,sorgId,sorgName,sorgType,sorgParentId
+1,增加机构,code,0,e7252873234f4b3cba273d1a11faf721,apitestjg01,0e0c6c38-ad23-4a53-a74a-61fb718824a8,apitestjg01,apitestjg01,63b013f683f84cf3b8cfcfe84f9bc8d4
