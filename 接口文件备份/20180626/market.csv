@@ -1,0 +1,32 @@
+接口标识,接口名称,接口地址,接口请求方式,接口参数
+changePwdUsingPOST,修改密码,https://service.bccastle.com/market/AccountController/changePwd,post,"['password', 'mobile']"
+checkProUsingPOST,验证用户名与手机号是否已经存在,https://service.bccastle.com/market/AccountController/checkPro,post,"['loginName', 'phoneNum']"
+compareCodeUsingPOST,验证码是否输入正确,https://service.bccastle.com/market/AccountController/compareCode,post,"['phoneNum', 'phoneKey']"
+findCompanyIdByUidUsingPOST,查询用户所属企业ID,https://service.bccastle.com/market/AccountController/findCompanyIdByUid,post,['uid']
+loginUsingPOST,云超市用户登入,https://service.bccastle.com/market/AccountController/login,post,"['userName', 'password']"
+queryPhoneNumUsingPOST,queryPhoneNum,https://service.bccastle.com/market/AccountController/queryPhoneNum,post,['mobile']
+registerUsingPOST,云超市用户注册,https://service.bccastle.com/market/AccountController/register,post,"['userName', 'password', 'phoneNum', 'phoneKey']"
+sendSmsUsingPOST,用户注册发送短信,https://service.bccastle.com/market/AccountController/sendSms,post,['phoneNum']
+sendSmsPwdUsingPOST,用户忘记密码发送短信,https://service.bccastle.com/market/AccountController/sendSmsPwd,post,['phoneNum']
+findAppPriceByFidUsingPOST,根据规格查询价格,https://service.bccastle.com/market/appPrice/findAppPriceByFid,post,['fid']
+handleErrorUsingPOST,handleError,https://service.bccastle.com/market/error,post,[]
+indexUsingGET,index,https://service.bccastle.com/market/index,get,[]
+getLoginUserUsingGET,getLoginUser,https://service.bccastle.com/market/index/getUserInfo,get,['error...']
+logoutUsingPOST,logout,https://service.bccastle.com/market/logout,post,[]
+findByEntityIdUsingPOST,查询应用详情,https://service.bccastle.com/market/marketApp/findByEntityId,post,['entityId']
+findProductsUsingPOST,分页查询应用列表,https://service.bccastle.com/market/marketApp/findProducts,post,['error...']
+findRecommendListByPositionUsingGET,通过位置查询推荐应用列表,https://service.bccastle.com/market/marketApp/findRecommendListByPosition,get,"['position', 'recommendType']"
+findUrlByIdUsingPOST,根据应用ID查询URL,https://service.bccastle.com/market/marketApp/findUrlById,post,['entityId']
+hotProductsUsingGET,热门推荐,https://service.bccastle.com/market/marketApp/hotProducts,get,[]
+getCitiesByProvinceUsingGET,根据省查询市列表,https://service.bccastle.com/market/marketCompany/getCity,get,['provinceId']
+getProvinceInfoUsingGET,查询省列表,https://service.bccastle.com/market/marketCompany/getProvince,get,[]
+getCompanyUsingPOST,查看企业信息,https://service.bccastle.com/market/marketCompany/getServiceCompany,post,['serviceCompanyId']
+insertCompanyUsingPOST,服务商入驻,https://service.bccastle.com/market/marketCompany/insertCompany,post,"['address', 'bankCode', 'bankCompanyName', 'bankCompanyNum', 'certificateauthority', 'certificatename', 'certificateno', 'certificatepic', 'city', 'companyMail', 'companyPhone', 'companyid', 'companytype', 'createtime', 'createuser', 'deletetime', 'deleteuser', 'description', 'developernum', 'employeesnum', 'ename', 'issuingauthority', 'lastmodify', 'legalperson', 'limiteperiod', 'logo', 'name', 'province', 'pwdPolicyID', 'range', 'regaddress', 'registeredcode', 'registereddate', 'registeredfunds', 'registeredtype', 'status', 'updatetimeuser', 'validperiod', 'website', 'createuser', 'uid']"
+queryListUsingPOST,查询数据字典列表,https://service.bccastle.com/market/marketCompany/queryList,post,['typeCode']
+queryStatusUsingPOST,入驻状态,https://service.bccastle.com/market/marketCompany/queryStatus,post,['uid']
+createOrderUsingPOST,生成订单接口,https://service.bccastle.com/market/marketOrder/createOrder,post,"['accountNumber', 'appId', 'appNumber', 'appSalesModel', 'companyId', 'consumeCompanyId', 'consumeUserId', 'createTime', 'function', 'id', 'name', 'openDate', 'openStatus', 'orderNum', 'originPrice', 'payNumber', 'payTime', 'payments', 'periodNumber', 'periodType', 'price', 'priceId', 'priceRatio', 'serviceCompanyName', 'settlement', 'status', 'type', 'typeName']"
+findOrderByIdUsingPOST,订单查询接口,https://service.bccastle.com/market/marketOrder/findOrderById,post,['id']
+updateOrderUsingPOST,修改订单支付状态,https://service.bccastle.com/market/marketOrder/updateOrder,post,['id']
+messageUsingPOST,message,https://service.bccastle.com/market/message,post,[]
+showMarketUsingGET,展示基础分类,https://service.bccastle.com/market/showIdsMarket,get,[]
+showMarketAppUsingGET,基础分类下的应用分类,https://service.bccastle.com/market/showMarketApp,get,['code']

@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,serviceCompanyId,serviceSupportId,supportMail,supportName,supportNum,supportPhone,supportPosition,supportType
+1,查询服务商支持人,code,0,8e3de1235838440d99cc2d5d2a0357ab,92b8a7fa-7342-4a56-896c-979ed2f1f2e3,,测试,4,454324332,开发,1

@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,uid,resetWay,getWay,password
+1,企业管理员重置密码发送短息,code,0,cbfc63501b574eba998b336c77e37c07,0,0,123456

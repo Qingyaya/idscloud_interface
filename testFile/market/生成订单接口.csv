@@ -1,0 +1,2 @@
+caseID,caseName,assert,msg,accountNumber,appId,appNumber,companyId,consumeCompanyId,consumeUserId,function,name,originPrice,payments,periodNumber,price,priceId,serviceCompanyName,type,appSalesModel
+1,生成订单接口,code,0,1,8d16019cd9d54dc6b8a487954a4b65ab,1,8e3de1235838440d99cc2d5d2a0357ab,64d4fe1ce79f439dbb6b7c55ae028985,c7e5c5b6-2a9f-4c23-9c86-0e4604660ddb,企业版,无协议应用,100,100,0,100,e916a23111ec4170a8edbe089e9d4459,榆林集团,40000,3

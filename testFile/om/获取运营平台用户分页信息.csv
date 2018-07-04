@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,loginname,username,creator,status,page
+1,获取运营平台用户分页信息,code,0,,,,,

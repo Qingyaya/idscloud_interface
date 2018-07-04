@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,displayName,loginName,mobile,mail,spGender,password
+1,开发者用户注册,code,0,apikaifa,apikaifa,15190927987,apikaifa@163.cn,0,123456

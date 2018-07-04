@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,mobile,mail,loginName
+1,查看是登录名是否存在,code,0,,,test01

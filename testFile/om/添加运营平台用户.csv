@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,creator,loginname,password,username
+1,添加运营平台用户,code,0,admin,apitest,123456,apitest
