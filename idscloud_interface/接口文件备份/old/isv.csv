@@ -1,0 +1,42 @@
+接口标识,接口名称,接口地址,接口请求方式,接口参数
+querySupportPeopleUsingPOST,查询服务商支持人,https://service.bccastle.com/dev/SupportPeopleController/querySupportPeople,post,"['serviceCompanyId', 'serviceSupportId', 'supportMail', 'supportName', 'supportNum', 'supportPhone', 'supportPosition', 'supportType']"
+savaSupportPeopleUsingPOST,服务商支持人修改时接口,https://service.bccastle.com/dev/SupportPeopleController/savaSupportPeople,post,['jsonList']
+addAgreementUsingPOST,授权协议添加,https://service.bccastle.com/dev/addAgreement,post,['jsonList']
+addCasesUsingPOST,添加成功案例,https://service.bccastle.com/dev/addCases,post,['jsonList']
+addProductUsingPOST,产品添加接口,https://service.bccastle.com/dev/addProduct,post,"['appSalesModel', 'appType', 'appkey', 'appsecret', 'authMethodIds', 'avatar', 'chainCodes', 'commentContent', 'companyId', 'createTime', 'createUser', 'description', 'enabled', 'entityDescriptorContent', 'entityId', 'feature', 'guide', 'idpEntityId', 'isAuthenticationIntegrated', 'mode', 'operationSystem', 'securityLevel', 'spCode', 'status', 'storeType', 'type', 'typeName', 'ud', 'updatetime', 'url', 'userGroup', 'versions', 'documentList', 'describe', 'standardList', 'appSalesModel']"
+addCommentUsingPOST,添加审核意见,https://service.bccastle.com/dev/comment/addComment,post,"['commentContent', 'commentId', 'commentType', 'createTime', 'createUser', 'dataId', 'operation']"
+addAppUsingPOST,产品注册,https://service.bccastle.com/dev/devApp/addApp,post,"['appSalesModel', 'appType', 'appkey', 'appsecret', 'authMethodIds', 'avatar', 'chainCodes', 'commentContent', 'companyId', 'createTime', 'createUser', 'description', 'enabled', 'entityDescriptorContent', 'entityId', 'feature', 'guide', 'idpEntityId', 'isAuthenticationIntegrated', 'mode', 'operationSystem', 'securityLevel', 'spCode', 'status', 'storeType', 'type', 'typeName', 'ud', 'updatetime', 'url', 'userGroup', 'versions']"
+dowlandXmlUsingGET,下载sp-xml,https://service.bccastle.com/dev/devApp/dowlandXml,get,"['entityId', 'url']"
+downAppsUsingPOST,应用申请下架,https://service.bccastle.com/dev/devApp/downApps,post,['entityId']
+dowUsingGET,下载证书,https://service.bccastle.com/dev/devApp/downlandFile,get,[]
+findAppUsingPOST,查询应用详情,https://service.bccastle.com/dev/devApp/findApp,post,['entityId']
+findByEntityIdUsingPOST,查询产品详情,https://service.bccastle.com/dev/devApp/findByEntityId,post,['appId']
+findIdpListUsingPOST,获取idp列表,https://service.bccastle.com/dev/devApp/findIdpList,post,[]
+findServiceCompanyUsingPOST,获取公司信息列表,https://service.bccastle.com/dev/devApp/findServiceCompany,post,[]
+joinUpAppsUsingPOST,应用申请接入,https://service.bccastle.com/dev/devApp/joinUpApps,post,['entityId']
+modifyAppUsingPOST,修改应用,https://service.bccastle.com/dev/devApp/modifyApp,post,"['appSalesModel', 'appType', 'appkey', 'appsecret', 'authMethodIds', 'avatar', 'chainCodes', 'commentContent', 'companyId', 'createTime', 'createUser', 'description', 'enabled', 'entityDescriptorContent', 'entityId', 'feature', 'guide', 'idpEntityId', 'isAuthenticationIntegrated', 'mode', 'operationSystem', 'securityLevel', 'spCode', 'status', 'storeType', 'type', 'typeName', 'ud', 'updatetime', 'url', 'userGroup', 'versions']"
+searchUsingPOST,分页查询应用,https://service.bccastle.com/dev/devApp/search,post,"['spCode', 'createTime', 'createUser', 'status', 'page', 'companyId']"
+upAppsUsingPOST,应用申请上架,https://service.bccastle.com/dev/devApp/upApps,post,['entityId']
+getCitiesByProvinceUsingGET,根据省查询市列表,https://service.bccastle.com/dev/devCompany/getCity,get,['provinceId']
+getProvinceInfoUsingGET,查询省列表,https://service.bccastle.com/dev/devCompany/getProvince,get,[]
+getCompanyUsingGET,查看企业信息,https://service.bccastle.com/dev/devCompany/getServiceCompany,get,['uid']
+updateServiceCompanyUsingPOST,修改服务商本企业信息申请提交,https://service.bccastle.com/dev/devCompany/updateServiceCompany,post,"['address', 'bankCode', 'bankCompanyName', 'bankCompanyNum', 'certificateauthority', 'certificatename', 'certificateno', 'certificatepic', 'city', 'companyMail', 'companyPhone', 'companyid', 'companytype', 'createtime', 'createuser', 'deletetime', 'deleteuser', 'description', 'developernum', 'employeesnum', 'ename', 'issuingauthority', 'lastmodify', 'legalperson', 'limiteperiod', 'logo', 'name', 'province', 'pwdPolicyID', 'range', 'regaddress', 'registeredcode', 'registereddate', 'registeredfunds', 'registeredtype', 'status', 'updatetimeuser', 'validperiod', 'website']"
+updateStatusUsingPOST,提交企业审核申请,https://service.bccastle.com/dev/devCompany/updateStatus,post,['companyid']
+addUsingPOST,上传说明文档,https://service.bccastle.com/dev/document/addDocument,post,['jsonList']
+deleteFileUsingGET,删除上传文件 ,https://service.bccastle.com/dev/document/deleteFile,get,['fullFilePath']
+documentIndexUsingGET,documentIndex,https://service.bccastle.com/dev/document/documentIndex,get,[]
+savaDocumentUsingPOST,针对修改产品时 保存修改 文档说明,https://service.bccastle.com/dev/document/savaDocument,post,['jsonList']
+uploadUsingPOST,文档上传接口,https://service.bccastle.com/dev/document/upload,post,['file']
+findBillListUsingPOST,获取账单分页信息,https://service.bccastle.com/dev/findBillList,post,"['billData', 'billPeriod', 'billStatus', 'id', 'moneyReceived', 'name', 'serviceCharge', 'serviceCompanyId', 'settlementAmount', 'p']"
+indexUsingGET,index,https://service.bccastle.com/dev/index,get,[]
+logoutUsingGET,logout,https://service.bccastle.com/dev/logout,get,[]
+dealManageUsingPOST,交易统计接口,https://service.bccastle.com/dev/order/dealManage,post,"['serviceCompanyId', 'gtTime', 'lsTime', 'page']"
+exportOrderUsingGET,本公司订单下载,https://service.bccastle.com/dev/order/exportOrder,get,['conpanyId']
+queryOrderUsingPOST,订单详情,https://service.bccastle.com/dev/order/queryOrder,post,['orderId']
+queryOrderListUsingPOST,订单列表,https://service.bccastle.com/dev/order/queryOrderList,post,"['companyId', 'gtTime', 'lsTime', 'name', 'orderNum', 'settlement', 'status', 'type', 'page']"
+uploadOrderDateUsingPOST,返回本公司订单下载地址,https://service.bccastle.com/dev/order/uploadOrderDate,post,[]
+savaAgreementUsingPOST,保存协议,https://service.bccastle.com/dev/savaAgreement,post,['jsonList']
+savaCasesUsingPOST,保存成功案例,https://service.bccastle.com/dev/savaCases,post,['jsonList']
+saveProductUsingPOST,产品保存接口,https://service.bccastle.com/dev/saveApplication,post,"['describe', 'casesList', 'agreementList', 'appSalesModel', 'appType', 'appkey', 'appsecret', 'authMethodIds', 'avatar', 'chainCodes', 'commentContent', 'companyId', 'createTime', 'createUser', 'description', 'enabled', 'entityDescriptorContent', 'entityId', 'feature', 'guide', 'idpEntityId', 'isAuthenticationIntegrated', 'mode', 'operationSystem', 'securityLevel', 'spCode', 'status', 'storeType', 'type', 'typeName', 'ud', 'updatetime', 'url', 'userGroup', 'versions', 'documentList', 'standardList', 'appSalesModel']"
+updateBillStatusUsingPOST,修改账单状态,https://service.bccastle.com/dev/updateBillStatus,post,['id']
+infoUsingGET,info,https://service.bccastle.com/dev/userInfo,get,['token']

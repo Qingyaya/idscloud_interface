@@ -1,0 +1,20 @@
+接口标识,接口名称,接口地址,接口请求方式,接口参数
+addAppsApplyUsingPOST,添加应用,https://service.bccastle.com/id/addAppsApply,post,"['entityId', 'uid']"
+handleErrorUsingPOST,handleError,https://service.bccastle.com/id/error,post,[]
+findPwdByUidUsingPOST,验证原密码,https://service.bccastle.com/id/findPwdByUid,post,"['uid', 'password']"
+getAllUnSelAppsListUsingPOST,查询未选择的所有应用,https://service.bccastle.com/id/getAllUnSelAppsList,post,"['uid', 'consumeCompanyId']"
+getUnSelAppsListUsingPOST,查询未选择的所有自建应用列表,https://service.bccastle.com/id/getUnSelAppsList,post,"['uid', 'consumeCompanyId']"
+indexUsingGET,index,https://service.bccastle.com/id/index,get,[]
+deleteUserAppUsingGET,删除某个应用,https://service.bccastle.com/id/index/deleteUserApps,get,"['appId', 'uid']"
+queryBackMessageUsingGET,查询代填信息,https://service.bccastle.com/id/index/queryBackMessage,get,"['uid', 'entityid']"
+querySWAapplistUsingGET,查找用户已添加可使用的应用列表,https://service.bccastle.com/id/index/querySWAapplist,get,"['uid', 'flag']"
+queryUrlListUsingGET,获取需要代填应用url列表 和应用id,https://service.bccastle.com/id/index/queryUrlList,get,[]
+updateAccountStatusUsingPOST,设置口令代填用户名密码,https://service.bccastle.com/id/index/updateAccountStatus,post,"['uid', 'entityid', 'username', 'password']"
+logoutUsingPOST,logout,https://service.bccastle.com/id/logout,post,[]
+messageUsingGET,message,https://service.bccastle.com/id/message,get,[]
+queryUnSelThirdAppsListUsingPOST,查询未选择的第三方应用列表,https://service.bccastle.com/id/queryUnSelThirdAppsList,post,['uid']
+updateAppFlagUsingPOST,修改用户中心应用位置（1.常用、2.办公、3.其它、4.个人）,https://service.bccastle.com/id/updateAppFlag,post,"['uid', 'entityid', 'flag']"
+updateAppSortUsingPOST,当前类型应用-本页面移动,https://service.bccastle.com/id/updateApplicationSort,post,"['uid', 'list']"
+updatePwdUsingPOST,修改密码,https://service.bccastle.com/id/updatePwd,post,"['password', 'uid']"
+infoUsingGET,查找用户信息,https://service.bccastle.com/id/userInfo,get,['token']
+editUserUsingPOST,修改用户,https://service.bccastle.com/id/userInfo/update,post,['error...']

@@ -92,11 +92,8 @@ class Log():
         report_path = os.path.join(filepath, "report")
         if not os.path.exists(report_path):
             os.mkdir(report_path)
-        report_path = os.path.join(report_path, str(datetime.now().strftime("%Y%m%d")))
-        if not os.path.exists(report_path):
-            os.mkdir(report_path)
+        report_path = os.path.join(report_path,'Testreport.html')
 
-        report_path = os.path.join(report_path,str(datetime.now().strftime("%Y%m%d%H%M%S"))+'.html')
         return report_path
 
     def get_result_path(self):

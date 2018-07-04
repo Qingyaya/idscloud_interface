@@ -12,10 +12,10 @@ def get(url,params,Authonvalue=''):
     if Authonvalue=='':
         header={}
     else:
-        if Authonvalue != 'op':
+        if Authonvalue != 'om':
             headvalue = rc.get_headers('market')
         else:
-            headvalue = rc.get_headers('op')
+            headvalue = rc.get_headers('om')
         header={headkey:headvalue}
     """
     get请求
@@ -32,10 +32,10 @@ def post(url,data,Authonvalue=''):
     if Authonvalue=='':
         header={}
     else:
-        if Authonvalue != 'op':
+        if Authonvalue != 'om':
             headvalue = rc.get_headers('market')
         else:
-            headvalue = rc.get_headers('op')
+            headvalue = rc.get_headers('om')
         header={headkey:headvalue}
     """
     post请求

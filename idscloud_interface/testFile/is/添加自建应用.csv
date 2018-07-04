@@ -1,0 +1,2 @@
+caseID,caseName,assertKey,assertValue,consumeCompanyId,description,SpCode,avatar,appAccessType,createuser,loginUrl,outUrl,visualRange
+1,添加自建应用,code,0,1f76ec6470fb42bbba0881926b1bb55c,http://www.w3c.com,Oauth,http://192.168.146.23:9999/group1/M00/00/10/wKiSF1szOvqAJXHXAACGDnsqOck717.png,3,wangyungui,http://www.w3c.com,,2

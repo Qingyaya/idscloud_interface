@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
 
 if __name__ == '__main__':
-    with open('E:\\IDS\\idscloud_interface\\testFile\\isv\\case.csv','r') as f:
+    with open('C:\\Users\\admin\\Desktop\\20180621\\is_1.csv','r') as f:
         reader=csv.reader(f)
         reads=[read for read in reader]
         for read in reads[1:]:
@@ -67,5 +67,5 @@ if __name__ == '__main__':
             interfaceAddress=read[2]
             methond=read[3]
             param=read[4]
-            # caseScript('E:\\IDS\\idscloud_interface\\testCase\\isv\\test_'+ operationId+'.py', operationId, interfaceName, methond, 'isv')
-            datacsv('E:\\IDS\\idscloud_interface\\testFile\\isv\\'+interfaceName+'.csv', eval(param))
+            caseScript('E:\\idscloud\\idscloud_interface\\testCase\\is\\test_'+ operationId+'.py', operationId, interfaceName, methond, 'is')
+            datacsv('E:\\idscloud\\idscloud_interface\\testFile\\is\\'+interfaceName+'.csv', eval(param))

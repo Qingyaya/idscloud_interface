@@ -2,8 +2,9 @@ import unittest
 from common import HTMLTestRunner_params
 from common.ReadConfig import ReadConfig
 from common.get_csv import *
-from common import sendMail
 from common.Log import Log
+from common import Data_clean
+
 
 Prodir =Propath()
 log=Log()
@@ -23,13 +24,13 @@ def runcase():
                                              description=u'接口测试的所有用例的执行')
         runner.run(discover)
         fp.close()
-        # sendMail.send_mail(report)
 
     log.info('==============================TEST END=======================================')
 
 if __name__ == '__main__':
 
     runcase()
+    Data_clean
 
 
 

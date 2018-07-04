@@ -65,4 +65,4 @@ def get_package(path):
 
 
 if __name__ == '__main__':
-    print(get_testdata('E:/IDS/idscloud_interface/testFile/eps/查看资源权限信息.csv'))
+    print(get_testdata('E:/IDS/idscloud_interface/testFile/is/查看资源权限信息.csv'))

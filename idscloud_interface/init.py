@@ -2,8 +2,8 @@ import json
 from common import Case
 from common.get_csv import *
 path=Propath()
-source=open(path+"/testFile/isv4.0.txt","r").readline()
-csvfile = open(path+'/testFile/isv/isv.csv', 'w',newline ='')
+source=open(path+"/testFile/market.txt","r").readline()
+csvfile = open(path+'/testFile/market_0.csv', 'w',newline ='')
 writer = csv.writer(csvfile)
 writer.writerow(["接口标识","接口名称","接口地址","接口请求方式", "接口参数"])
 if source.startswith(u'\ufeff'):
@@ -12,7 +12,7 @@ jsonObject=json.loads(source)
 paths=jsonObject["paths"]
 
 for key in paths:
-    # interfaceAddress ='http://'+ jsonObject['host']+jsonObject['basePath']+key
+    # interfaceAddress ='https://'+ jsonObject['host']+jsonObject['basePath']+key
     interfaceAddress = 'https://' + 'service.bccastle.com' + jsonObject['basePath'] + key
     interfaceName = ""
     operationId = ""
@@ -38,8 +38,8 @@ for key in paths:
                 else:
                     param.append(pa["name"])
         writer.writerow([operationId,interfaceName , interfaceAddress, methond,param ])
-        # Case.caseScript(path+'/testCase/eps/test_'+ operationId+'.py',operationId,interfaceName,methond,'eps')
-        # Case.datacsv(path+'/testFile/user/'+interfaceName+'.csv',param)
+        # Case.caseScript(path+'/testCase/is/test_'+ operationId+'.py',operationId,interfaceName,methond,'is')
+        # Case.datacsv(path+'/testFile/id/'+interfaceName+'.csv',param)
 csvfile.close()
 
 
