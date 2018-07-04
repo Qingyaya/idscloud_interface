@@ -1,9 +1,0 @@
-caseNo,caseName,oldorgname,buttonstate,orgNo,orgname,comment,error
-1,passcase1,testuiregister/test人事/No导入s,None,G00001,No导入,原ys&00001/No导入s,
-2,passcase2,testuiregister/test人事/No导入dl,None,TE00001,销售,原TE00001/No导入dl,
-3,failcase3,testuiregister/人事,None, ,case,,请输入部门编码
-4,failcase4,testuiregister/人事,None,case, ,,请输入部门名称
-5,failcase5,testuiregister/人事,None, ,  ,,请输入部门编码/请输入部门名称
-6,failcase6,testuiregister/人事,None,G00005,分部,,同一上级部门下，下级部门不能重名!
-7,failcase7,testuiregister/人事,None,200012,No导入s,,编码已存在!
-8,passcase8,testuiregister,true,,,,

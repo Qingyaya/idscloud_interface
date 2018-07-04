@@ -1,5 +1,0 @@
-caseNo,caseName,orgparent,orgname,msg
-1,passcase,testuiregister/总司/技术,,删除成功
-2,passcase,testuiregister/test人事,CASE ENGLISH TRY,删除成功
-3,failcase,,,请至少选择一个部门进行操作！
-4,failcase,testuiregister/分部,,删除部门中存在子部门或用户，无法删除!

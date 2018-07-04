@@ -1,5 +1,0 @@
-caseNo,caseName,username,pwd,appname,appkind,timelimit,quantity,proprotion
-1,购买应用1,testui,a123456,按租期无账号_testui,租期02,2年,,10
-2,购买应用2,testui,a123456,按租期有账号_testui,租期01,1年,10,10
-3,购买应用3,testui,a123456,按次无账号_testui,按次01,,,20
-4,购买应用4,testui,a123456,按次有账号_testui,按次02,,2,30
