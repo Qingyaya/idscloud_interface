@@ -1,4 +1,0 @@
-caseID,caseName,assert,msg,provinceId
-1,根据省查询市列表,code,0,110000
-1,根据省查询市列表,code,0,820000
-1,根据省查询市列表,code,0,12345678900

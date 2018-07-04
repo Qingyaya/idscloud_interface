@@ -1,2 +1,0 @@
-caseID,caseName,assert,assertvalue,position,recommendType
-1,通过位置查询推荐应用列表,code,0,2,40000

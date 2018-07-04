@@ -1,5 +1,0 @@
-caseID,caseName,assert,msg,userName,password
-1,云超市用户登入,code,0,yulin,a123456
-2,云超市用户登入,code,103,yulina,a123456
-3,云超市用户登入,code,103,yulin,a1234561
-4,云超市用户登入,code,103,yulina,a123456a

@@ -1,4 +1,0 @@
-caseID,caseName,assert,msg,name,companytype,registeredcode,certificatepic,bankCode,bankCompanyName,bankCompanyNum
-1,服务商入驻,code,0,测试企业999,1,1234567890,42342345424,中国银行,测试企业999,94883793829
-1,服务商入驻,code,0,,,,42342345424,中国银行,测试企业999,94883793829
-1,服务商入驻,code,0,测试企业999,1,1234567890,42342345424,,,

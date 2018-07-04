@@ -1,2 +1,0 @@
-caseID,caseName,assertKey,assertValue,mail
-1,验证邮箱是否重复,code,0,abc@123.cn

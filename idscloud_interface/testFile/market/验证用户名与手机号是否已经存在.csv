@@ -1,7 +1,0 @@
-caseID,caseName,assert,msg,loginName,phoneNum
-1,验证用户名与手机号是否存在,code,103,yulin,18770913984
-2,验证用户名与手机号是否存在,code,103,yulin12,18770913984
-3,验证用户名与手机号是否存在,code,103,yulin,18770910000
-4,验证用户名与手机号是否存在,code,0,yulinAA,18770913123
-5,验证用户名与手机号是否存在,code,0,,18770913123
-6,验证用户名与手机号是否存在,code,0,yulinAA,
